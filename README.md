@@ -1,1 +1,1 @@
-# AndroidAuto
+# 1.此应用的功能为：android自动化测试
