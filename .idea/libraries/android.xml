@@ -2,7 +2,7 @@
   <library name="android">
     <CLASSES>
       <root url="jar://D:/android.jar!/" />
-      <root url="jar://D:/uiautomator.jar!/" />
+      <root url="jar://D:/uiautomator1.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
